@@ -1,9 +1,0 @@
-pandas
-numpy
-torch
-transformers
-librosa
-tqdm
-datasets
-torchaudio
-jiwer
