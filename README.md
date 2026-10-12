@@ -59,9 +59,9 @@ npm install
 ### Create a .env file in the backend folder:
 ```sh
 PORT = 3009
-MONGODB_URI = "mongodb+srv://root:root@clustersolnstech.1bikubl.mongodb.net/educationaPlatformIITM?retryWrites=true&w=majority&appName=ClusterSolnstech"
-HUGGINGFACE_API_KEY=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
-GOOGLE_GENAI_API_KEY=AIzaSyDXE_LGHuRXnovDtxJg-0zQc4h0OlAOcgE
+MONGODB_URI = "*******"
+HUGGINGFACE_API_KEY=***************
+GOOGLE_GENAI_API_KEY=****************
 ```
 
  ## Running the Application
